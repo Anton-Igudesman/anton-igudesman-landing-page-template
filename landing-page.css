@@ -1,0 +1,95 @@
+#header-img {
+    margin-right:10px;
+}
+body {
+    background-color: rgb(190, 185, 174);
+}
+.tournament-font {
+    font-family: monospace;
+    margin-top: 30px;
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+
+#video {
+    height: 315px;
+    width: 600px;
+    padding: 15px;
+}
+.my-col {
+    background-color: white;
+    margin-bottom: 30px;  
+    border: 3px ridge black;
+    display: flex;
+    justify-content: center;
+}
+.my-col2 {
+    background-color: white;
+    margin-bottom: 30px;
+    border: 3px ridge black;
+}
+img {
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+.my-row {
+    display: flex;
+    justify-content: center;
+    width: 99%
+}
+.prev {
+    right: 805px;
+}
+.photo {
+    display: flex;
+    justify-content: center;
+}
+ 
+.phototxt{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.overlay-text {
+  background-color: rgba(226, 220, 220, .4);
+  border-radius: 5px;
+  box-shadow: 5px 10px 40px 4px;
+  color: #e911cc;
+  font-size: 15px;
+  font-weight: bolder;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  width: 50%;
+}
+.signup {
+    margin: 30px;
+}
+  
+ 
+ .textbox {
+     background-color: gray;
+     padding: 15px;
+     border-radius: 5px;
+ }
+
+ @media screen and (max-width: 992px) {
+   .photo {
+     align-items: center;
+   }
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
